@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">tp1</string>
+    <string name="txtView_Sexe">Sexe</string>
+    <string name="bouton_masculin">Masculin</string>
+    <string name="bouton_feminin">Féminin</string>
+    <string name="txt_viewLangue">Langue</string>
+    <string name="CB_Francais">Français</string>
+    <string name="CB_Anglais">Anglais</string>
+    <string name="CB_Espagnol">Espagnol</string>
+    <string name="bt_Valider">Valider</string>
+
+
+</resources>

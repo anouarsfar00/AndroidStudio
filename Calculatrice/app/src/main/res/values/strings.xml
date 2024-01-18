@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculatrice</string>
+    <string name="saisie_x" />
+    <string name="saisir_y" />
+    <string name="btn_somme">Somme</string>
+    <string name="btn_soustraction">Soustraction</string>
+    <string name="btn_produit" >Produit</string>
+    <string name="btn_division">division</string>
+</resources>
